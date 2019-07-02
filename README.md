@@ -1,4 +1,4 @@
 # MyCharp
 some projects about Charp
 
-to modify read.md https://github.com/guodongxiaren/README
+to modify readme.md https://github.com/guodongxiaren/README
